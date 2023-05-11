@@ -1,0 +1,16 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Lab2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Audio.cpp
+  Display.cpp
+  main.cpp
+  MainGame.cpp
+  Mesh.cpp
+C:\Users\aiden\Desktop\FinalGraphicsProject\Lab1\Mesh.cpp(17,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aiden\Desktop\FinalGraphicsProject\Lab1\Mesh.cpp(96,9): warning C4930: 'Sphere meshSphere(void)': prototyped function not called (was a variable definition intended?)
+  obj_loader.cpp
+C:\Users\aiden\Desktop\FinalGraphicsProject\Lab1\obj_loader.cpp(378,16): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Shader.cpp
+  SkyBox.cpp
+  Texture.cpp
+  Generating Code...
+  stb_image.c
+  Lab1.vcxproj -> C:\Users\aiden\Desktop\FinalGraphicsProject\Debug\Lab1.exe
